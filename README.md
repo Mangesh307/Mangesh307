@@ -20,7 +20,7 @@ I love learning new techs and using new tools. I also love Listening podcasts wh
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:mangeshdushman49@gmail.com"><b>send me an email</b></a>.
+ <a href="mailto:mangeshdushman49@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 

@@ -24,13 +24,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangesh307&include_all_commits=true&count_private=true&show_icons=true&line_" alt="Mangesh307 Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangesh307&layout=compact&theme=dark&bg_color=0A0A0A" alt="Mangesh's Top Languages"/>
-<br />
-<br />
-<br />
+
+
 
 **Happy Coding!** 😊
 

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangesh307&label=Profile%20views&color=0e75b6&style=flat" alt="mangesh307" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangesh307" alt="mangesh307" /></a> </p>
-
 - 🔭 I’m currently working on **1) Driver Assistance System using CAN Protocol. 2) Microsoft teams integration for ADE notification**
 
 - 🌱 I’m currently learning **Data Structures and algorithms, Spring**

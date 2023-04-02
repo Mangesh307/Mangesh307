@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and algorithms, Spring**
 
-- 👯 I’m currently doing internship at **BMC Softwares**
+- 👨‍💻 I’m currently doing internship at **BMC Softwares**
 
 - 💬 Ask me about **Java, python**
 

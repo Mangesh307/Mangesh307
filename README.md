@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangesh307" alt="mangesh307" /></a> </p>
 
+- 🔭 I have completed internship at **BMC Software**
+
 - 🌱 I’m currently learning **Spring**
+
+- 👯 I’m Interested in **Backend Development**
 
 - 💬 Ask me about **Java , Rest api ,Data structures and algorithms**
 

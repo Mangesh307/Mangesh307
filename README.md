@@ -7,9 +7,9 @@
 
 - 🔭 I have completed internship at **BMC Software**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m Interested in **Backend Development**
+- 👯 I’m Interested in **Full Stack Development**
 
 - 💬 Ask me about **Java , Rest api ,Data structures and algorithms**
 
